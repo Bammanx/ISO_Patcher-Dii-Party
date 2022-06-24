@@ -1,2 +1,2 @@
-# Dii-Party
-I'm not the creator of this mod, thank NicholassTV for his work rather than me who only made the iso patcher.
+ISO PATCHER: https://github.com/Exorcism0666/ISO_Patcher-Dii-Party
+Dii Party: https://gamebanana.com/wips/53698
